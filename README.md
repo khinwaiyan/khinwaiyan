@@ -43,4 +43,4 @@
 **(Aug 2023 -  present )**
 
 - Korea 101 Team Member
-    - Design208b9457b370.md…]()
+    - Design
